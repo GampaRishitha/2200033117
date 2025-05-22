@@ -1,7 +1,3 @@
 QUESTION 2 ANSWER
 
-
-
-
-
-
+POSTMAN RESPONSE IN response.json
